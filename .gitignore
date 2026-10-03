@@ -1,0 +1,11 @@
+﻿# KiCad temporales y respaldos
+*-backups/
+*.kicad_prl
+*.lck
+fp-info-cache
+
+# Salidas temporales
+*.net
+*.tmp
+
+.history/
